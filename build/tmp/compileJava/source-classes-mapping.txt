@@ -1,0 +1,28 @@
+com/tergav17/bot/SpeechRecognitionHandler.java
+ com.tergav17.bot.SpeechRecognitionHandler
+com/tergav17/bot/UserAudioClip.java
+ com.tergav17.bot.UserAudioClip
+com/tergav17/bot/CasualPhraseProcessor.java
+ com.tergav17.bot.CasualPhraseProcessor
+com/tergav17/bot/Bot.java
+ com.tergav17.bot.Bot
+com/tergav17/bot/AudioConversionUtils.java
+ com.tergav17.bot.AudioConversionUtils
+com/tergav17/bot/BotEventListener.java
+ com.tergav17.bot.BotEventListener
+com/tergav17/bot/StableAudioClip.java
+ com.tergav17.bot.StableAudioClip
+com/tergav17/bot/ScanningItemLoader.java
+ com.tergav17.bot.ScanningItemLoader
+ com.tergav17.bot.ScanningItemLoader$1
+com/tergav17/bot/SavedClipDeployer.java
+ com.tergav17.bot.SavedClipDeployer
+com/tergav17/bot/AudioRecordingBuffer.java
+ com.tergav17.bot.AudioRecordingBuffer
+com/tergav17/bot/SpeechCommandDispatch.java
+ com.tergav17.bot.SpeechCommandDispatch
+com/tergav17/bot/VoiceConnectionHandler.java
+ com.tergav17.bot.VoiceConnectionHandler
+ com.tergav17.bot.VoiceConnectionHandler$1
+com/tergav17/bot/VoiceChannelHandler.java
+ com.tergav17.bot.VoiceChannelHandler
