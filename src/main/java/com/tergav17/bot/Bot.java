@@ -9,8 +9,6 @@ import java.util.Scanner;
 
 public class Bot {
     public static void main(String[] arguments) throws Exception {
-        //JDA api = JDABuilder.createDefault("ODIxMTUxODA5Mjc5MDk4OTIy.YE_jNw.2ouXf_swBkU515oxxo4o_Q7swC4").build();
-
         //Get the key from a key file
         System.out.println("Fetching key file...");
         File f = new File("bot.key");
